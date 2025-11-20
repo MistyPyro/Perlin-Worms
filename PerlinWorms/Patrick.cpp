@@ -36,3 +36,5 @@ vector<float> createNoise(const int x_size, const int y_size, const int seed){
      }
      // Do something with this data...
 }
+
+// use Raylib https://github.com/gameguild-gg/raylib-cpm-cmake-boilerplate
